@@ -3,7 +3,7 @@
 
 - 👨‍💻 I love to learn new technolgies and work on challenging projects.
  
-- 🌱 I’m currently learning **React-native**
+- 🌱 I’m currently learning **React-native** and diving deep into the **web3.0** world.
 
 - 👯 I’m looking to collaborate on **fullstack projects**
 
